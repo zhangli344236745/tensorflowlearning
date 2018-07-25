@@ -1,0 +1,24 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+MNIST/
+chapter1/MNIST_DATA/
+chapter10/cifar-10-batches-py/
+*.png
+*.index
+*.meta
+chapter12/MNIST/
+chapter13/MNIST/
+chapter2/MNIST/
+chapter12/MNIST2/
+chapter12/MNIST_data/
+chapter12/model/
+*.gz
+*/MNIST_DATA/
+*/MNIST_data/
